@@ -4,3 +4,4 @@ AAA
 AAA
 branch add This and fix merge conflict.
 
+add_this_line_for patch test.
